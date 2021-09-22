@@ -1,14 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mkbsc/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Checking this out for the first time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Chpater 1
 
-### Markdown
+Chapter 1 content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+```syntax
 Syntax highlighted code block
 
 # Header 1
